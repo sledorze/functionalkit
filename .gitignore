@@ -4,6 +4,8 @@ build/**
 *.perspectivev3
 *.mode1v3
 
+functionalkit.xcodeproj/xcuserdata/**
+
 # old skool
 .svn
 .cvs
